@@ -1,10 +1,9 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-FileCopyrightText: 2023 Edward Mills
+# SPDX-FileCopyrightText: 2023 wandrewkeech
 # SPDX-FileNotice: Part of the Silk addon.
 
 ################################################################################
-#                                                                              #
-#   (c) 2023 Edward Mills <edwardvmills@gmail.com>                             #
-#   (c) 2023 wandrewkeech                                                      #
 #                                                                              #
 #   Silk is free software: you can redistribute it and/or modify it            #
 #   under the terms of the GNU General Public License as published by          #
